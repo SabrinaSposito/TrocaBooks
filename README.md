@@ -23,22 +23,23 @@ renda para os desenvolvedores/apoiadores/investidores dessa aplicação?
 
 ## Ferramental utilizado
 
-Quais as ferramentas, linguagens, programas e etc. utilizados para construir e
-executar a solução proposta?
+-Eclipse
+-Java
+-MySQL
 
 ## Contribuidores
 
 Colocar o login no GitHub, endereço do perfil no GitHub e nome completo de todos
 os participantes do projeto, bem como o professor orientador, conforme o exemplo
 abaixo:
-- [@lucas-ssgomes](https://github.com/lucas-ssgomes) com  Fulano de Tal (Orientador)
-- [@macedotenorio22](https://github.com/macedotenorio22) como Sicrano de Tal
-- [@SabrinaSposito](https://github.com/SabrinaSposito) como Sicrano de Tal
+- [@lucas-ssgomes](https://github.com/lucas-ssgomes) com Luacas Santos (Desenvolvedor)
+- [@macedotenorio22](https://github.com/macedotenorio22) como Matheus Tenório (Desenvolvedor)
+- [@SabrinaSposito](https://github.com/SabrinaSposito) como Sabrina Sposito (Desenvolvedor)
 
 
 
 ## Licença
 
-Colocar a licença da qual será lançada a ferramenta. Eu recomendo GPL ou MIT
+GPL ou MIT
 (mas tenho mais preferência por esta última). Mas favor ler as possíveis
 licenças e escolher uma.
